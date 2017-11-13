@@ -1,3 +1,11 @@
+# SQLqueries_SQL
+
+# By using this code, you agree to appropriate licences
+
+# This code is a part of academic project and is for illustration purposes only
+
+# Below is the implementation of all the queries spooled in a single file with output:
+
 SQL> start query1
 SQL> SELECT pid, name FROM products
   2  WHERE discnt_rate > 0.1 AND (qoh - 10) >= qoh_threshold
