@@ -1,1 +1,0 @@
-# SQLqueries_SQL
